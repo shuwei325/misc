@@ -1,0 +1,4 @@
+*.qmd
+*.tex
+*.bib
+.Rhistory
